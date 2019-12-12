@@ -29,7 +29,6 @@ public class UserController {
     private UserService userService;
 
     /**
-     * 邓丽的验证，暂时用不上
      * 已经通过spring security去操作
      * @param user
      * @param session
